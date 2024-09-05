@@ -7,11 +7,6 @@ h- and a cpp-file*/
 using namespace std;
 
 int main() {
-    unsigned int n; /*the end of the sum. unsigned since it is positive*/
-
-    cout << "Enter a number for the sum: ";
-    cin >> n;
-
-    cout << "The sum is: " << sum(n) << endl;
+    
     return 0;
 }
